@@ -136,3 +136,8 @@ Continuar desarrollando habilidades en ingeniería de software, bases de datos y
 ---
 
 Siempre abierta a aprender nuevas tecnologías y asumir nuevos desafíos.
+## Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polipopi&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polipopi&layout=compact)
